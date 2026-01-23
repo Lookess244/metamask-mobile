@@ -327,7 +327,7 @@
     "human-standard-token-abi": "^2.0.0",
     "humanize-duration": "^3.27.2",
     "is-url": "^1.2.4",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lottie-ios": "3.4.1",
     "lottie-react-native": "5.1.6",
     "luxon": "^3.5.0",
