@@ -288,7 +288,7 @@
     "@walletconnect/core": "^2.19.2",
     "@walletconnect/react-native-compat": "2.19.2",
     "@walletconnect/utils": "^2.19.2",
-    "@xmldom/xmldom": "^0.8.10",
+    "@xmldom/xmldom": "^0.8.12",
     "appium-adb": "^9.11.4",
     "asyncstorage-down": "4.2.0",
     "axios": "^1.10.0",
